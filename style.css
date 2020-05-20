@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Nunito+Sans&family=Quattrocento&family=Quattrocento+Sans&family=Roboto&family=Roboto+Mono&family=Roboto+Slab&display=swap');
+
+*{
+  padding: 0;
+  Margin: 0;
+  background-color: #352D2E;
+}
+
+h1  {
+  text-align: center;
+  font-size: 50px;
+  background-color: #8DA4C7;
+  font-family: "Alegreya Sans", cursive;
+  
+}
+h2  {
+  text-align: center;
+  font-size: 30px;
+  background-color: hsl(0, 43%, 3%);
+  color: whitesmoke;
+  font-family: 'Nunito', sans-serif;
+}
+h3  {
+   text-decoration: underline;
+   background-color: #8DA4C7;;
+   font-size: 24px;
+   text-align:  center;
+   font-family: 'Roboto Slab',cursive;
+}
+h4  {
+   text-align: center;
+   color: #8DA4C7;;
+   font-size: 18px;
+   font-family: 'Quattrocento Sans', fantasy;
+}
+p {;
+  text-align: justify;
+  background-color: hsl(0, 43%, 3%);
+  color: whitesmoke;
+  font-family:  'Quattrocento', "times new roman";
+}
+ol {
+  text-align: center;
+  background-color: hsl(0, 43%, 3%));
+  color: #8DA4C7;
+  font-size: 16px;
+  font-family: 'Alegrey',cursive;
+}
+header{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Quattrocento', cursive;
+  }
