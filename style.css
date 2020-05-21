@@ -2,11 +2,14 @@
 
 
 
+
 h1  {
   text-align: center;
   font-size: 50px;
   background-color: #8DA4C7;
   font-family: "Alegreya Sans", cursive;
+  padding: 20;
+  margin: 20;
   
 }
 h2  {
@@ -15,6 +18,8 @@ h2  {
   background-color: hsl(0, 43%, 3%);
   color: whitesmoke;
   font-family: 'Nunito', sans-serif;
+  padding: 20;
+  margin: 20;
 }
 h3  {
    text-decoration: underline;
