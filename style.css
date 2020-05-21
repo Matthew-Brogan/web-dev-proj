@@ -1,60 +1,94 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Nunito+Sans&family=Quattrocento&family=Quattrocento+Sans&family=Roboto&family=Roboto+Mono&family=Roboto+Slab&display=swap');
 
-*  {
+*{
   padding: 0;
-  Margin: 10px;
-  background-color: gray;
+  Margin: 20px;
+  background-color: #352D2E;
 }
 
 h1  {
   text-align: center;
   font-size: 50px;
-  background-color: #8DA4C7;
-  font-family: "Alegreya Sans", cursive;
   
+  font-family: "Alegreya Sans", cursive;
+  border: 5px solid #8DA4C7;
+  padding: 0 0 0 0;
+  margin-left: 10px;
+  margin-right: 45px;
+  border-radius: 70%;
 }
 h2  {
   text-align: center;
   font-size: 30px;
-  background-color: hsl(0, 43%, 3%);
+  ;
   color: whitesmoke;
   font-family: 'Nunito', sans-serif;
+  border: 3px solid black;
 }
 h3  {
    text-decoration: underline;
-   background-color: #8DA4C7;;
+   color: #8DA4C7;;
    font-size: 24px;
    text-align:  center;
    font-family: 'Roboto Slab',cursive;
 }
 h4  {
    text-align: center;
-   color: #8DA4C7;;
+ 
    font-size: 18px;
    font-family: 'Quattrocento Sans', fantasy;
 }
 p {;
   text-align: justify;
-  background-color: hsl(0, 43%, 3%);
+  
   color: whitesmoke;
   font-family:  'Quattrocento', "times new roman";
 }
 ol {
   text-align: center;
-  background-color: hsl(0, 43%, 3%));
+
   color: #8DA4C7;
   font-size: 16px;
   font-family: 'Alegrey',cursive;
 }
 header{
-  text-align: center;
+  text-align: left;
   font-size: 40px;
   font-family: 'Quattrocento', cursive;
   color: #8DA4C7;
+  border: 3px solid black;
+  padding: 15px 20px 20px 3px;
+  margins-left: 10px;
+  margin-right: 45px;
+  
+  
   }
 .photo {
   display: "viewport";
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  border: 5px solid whitesmoke;
+  border-radius: 50%;
+}
+.intro {
+  border: 5px solid whitesmoke;
+}
+.about{
+  border: 5px solid whitesmoke;
+}
+.contact {
+  border: 5px solid whitesmoke;
+  text-align: center;
+}
+.info {
+  border: 5px solid whitesmoke;
+  text-align: center;
+  font-size: 20px;
+}
+nav {
+  text-align: right;
+  font-size: 20px;
+  text-decoration: underline;
+  color: #8DA4C7;
 }
