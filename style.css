@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Nunito+Sans&family=Quattrocento&family=Quattrocento+Sans&family=Roboto&family=Roboto+Mono&family=Roboto+Slab&display=swap');
 
 *{
-  padding: 0 0 0 0;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 0;
+  margin: 20px;
+  background-color: #352D2E;
+  
 
 
 h1  {
