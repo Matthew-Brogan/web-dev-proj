@@ -15,29 +15,29 @@ h1  { /*style for h1 element*/
 h2  {  /*style h2 element*/ 
   text-align: center;
   font-size: 30px;
-  color: gray;
+  color: dimgray;
   font-family: 'Nunito', sans-serif;
   width: 100%;
 }
 h3  {
    text-decoration: underline;
-   color: gray;
+   color: dimgray;
    font-size: 24px;
    text-align:  center;
    font-family: 'Roboto Slab',cursive;
 }
 h4  {
-    color: gray;
+    color: dimgray;
    font-size: 18px;
    font-family: 'Quattrocento Sans', fantasy;
 }
 p {;
   text-align: center;
-  color: gray;
+  color: dimgray;
   font-family:  'Quattrocento', "times new roman";
 }
 ol {
-  color: gray;
+  color: dimgray;
   font-size: 16px;
   font-family: 'Alegrey',cursive;
 }
@@ -45,7 +45,7 @@ header{
   text-align: center;
   font-size: 40px;
   font-family: 'Quattrocento', cursive;
-  color: gray;
+  color: midnightblue;
   width: 100%;
 }
 ul {
