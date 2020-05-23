@@ -1,94 +1,95 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Nunito+Sans&family=Quattrocento&family=Quattrocento+Sans&family=Roboto&family=Roboto+Mono&family=Roboto+Slab&display=swap');
-
-*{
+/* font family from google fonts */
+*{  /*base formatiing for page*/
   padding: 0;
-  Margin: 20px;
-  background-color: #352D2E;
+  Margin: 10px 10px 10px 10px;
+  background-color: azure;
 }
 
-h1  {
+h1  { /*style for h1 element*/
   text-align: center;
   font-size: 50px;
-  
   font-family: "Alegreya Sans", cursive;
-  border: 5px solid #8DA4C7;
-  padding: 0 0 0 0;
-  margin-left: 10px;
-  margin-right: 45px;
-  border-radius: 70%;
+  width: 100%;
 }
-h2  {
+h2  {  /*style h2 element*/ 
   text-align: center;
   font-size: 30px;
-  ;
-  color: whitesmoke;
+  color: gray;
   font-family: 'Nunito', sans-serif;
-  border: 3px solid black;
+  width: 100%;
 }
 h3  {
    text-decoration: underline;
-   color: #8DA4C7;;
+   color: gray;;
    font-size: 24px;
    text-align:  center;
    font-family: 'Roboto Slab',cursive;
 }
 h4  {
-   text-align: center;
- 
+    color: gray;
    font-size: 18px;
    font-family: 'Quattrocento Sans', fantasy;
 }
 p {;
   text-align: center;
-  
-  color: whitesmoke;
+  color: gray;
   font-family:  'Quattrocento', "times new roman";
 }
 ol {
-  text-align: center;
-
-  color: #8DA4C7;
+  color: gray;
   font-size: 16px;
   font-family: 'Alegrey',cursive;
 }
 header{
-  text-align: left;
+  text-align: center;
   font-size: 40px;
   font-family: 'Quattrocento', cursive;
-  color: #8DA4C7;
-  border: 3px solid black;
-  padding: 15px 20px 20px 3px;
-  margins-left: 10px;
-  margin-right: 45px;
-  
-  
-  }
+  color: gray;
+  width: 100%;
+}
+ul {
+  text-decoration: underline;
+}
+form  {
+  display: table;
+  margin: auto;
+}  
+
 .photo {
   display: "viewport";
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  border: 5px solid whitesmoke;
+  border: 5px solid black;
   border-radius: 50%;
 }
 .intro {
-  border: 5px solid whitesmoke;
+  border: 5px solid black;
+  width: 100%;
 }
 .about{
-  border: 5px solid whitesmoke;
+  border: 5px solid black;
+  width: 100%;
 }
 .contact {
-  border: 5px solid whitesmoke;
+  border: 5px solid black;
   text-align: center;
-}
+  width: 100%;
+  }
 .info {
-  border: 5px solid whitesmoke;
+  border: 5px solid black;
   text-align: center;
   font-size: 20px;
-}
+  width: 100%;
+  }
 nav {
-  text-align: right;
+  text-align: center;
   font-size: 20px;
-  text-decoration: underline;
-  color: #8DA4C7;
-}
+  text-decoration: ;;
+  width: 100%;
+  margin: auto;
+  }
+.maps {
+  width:100%;
+  }
