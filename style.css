@@ -35,6 +35,7 @@ p {;
   text-align: center;
   color: dimgray;
   font-family:  'Quattrocento', "times new roman";
+  font-weight: 600;
 }
 ol {
   color: dimgray;
@@ -47,9 +48,6 @@ header{
   font-family: 'Quattrocento', cursive;
   color: midnightblue;
   width: 100%;
-}
-ul {
-  text-decoration: underline;
 }
 form  {
   display: table;
