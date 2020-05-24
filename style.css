@@ -89,6 +89,16 @@ nav {
   width: 100%;
   margin: auto;
   }
+nav:a:lnik{
+  color: red;
+}
+nav:a:visited {
+  color: green;
+}
+nav:a: hover {
+  color: tomato:
+}
+
 .maps {
   width:100%;
   }
