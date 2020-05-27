@@ -46,12 +46,12 @@ h3  {   /*style h3 element*/
    font-family: 'Roboto Slab',cursive;
 }
 h4  {   /*style h4 element*/
-    color: dimgray;
+   color: dimgray;
    font-size: 32px;
    font-family: 'Quattrocento Sans', fantasy;
+   text-align: center:
 }
 /* stle for p elements*/
-
 p {
   text-align: center;
   color: dimgray;
@@ -64,12 +64,16 @@ ol {
   color: dimgray;
   font-size: 20px;
   font-family: 'Alegrey',cursive;
+  padding: 170px;
+  width: 50%;
 }
 /*style unordered list*/
 ul  {
   color: dimgray;
   font-size: 20px;
   font-family: 'Alegrey',cursive;
+  width: 50%;
+  padding-left: 60px;
 }
 
 /*styles by class*/
