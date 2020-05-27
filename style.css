@@ -88,12 +88,10 @@ form  {
   width: 100%;
 }
 .contact {
-  border: 5px solid black;
   text-align: center;
   width: 100%;
   }
 .info {
-  border: 5px solid black;
   text-align: center;
   font-size: 20px;
   width: 100%;
@@ -107,6 +105,9 @@ a:visited {
 }
 a:hover {
   color: tomato;
+}
+a:active {
+  color: silver;
 }
 /*style for embeded map*/
 .maps {
