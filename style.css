@@ -71,11 +71,7 @@ ul  {
   font-size: 20px;
   font-family: 'Alegrey',cursive;
 }
-/*style form*/
-form  {
-  display: table;
-  margin: auto;
-}  
+
 /*styles by class*/
 .photo {
   display: block;
@@ -85,18 +81,6 @@ form  {
   border: 5px solid black;
   border-radius: 50%;
 }
-.intro {
-  border: 5px solid black;
-  width: 100%;
-}
-.about{
-  border: 5px solid black;
-  width: 100%;
-}
-.contact {
-  text-align: center;
-  width: 100%;
-  }
 .info {
   text-align: center;
   font-size: 20px;
