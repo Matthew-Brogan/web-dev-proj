@@ -88,9 +88,10 @@ ul  {
  
 }
 .info {
-  text-align: center;
+  text-align: left;
   font-size: 20px;
   width: 100%;
+  display: inline-block
   }
 /*psuedo class styled links*/
 a:lnik{
@@ -109,5 +110,6 @@ a:active {
 .maps {
   width:100%;
   margin:auto;
+  display:inline-block;
   text-align: right;
   }
