@@ -35,7 +35,7 @@ h1  { /*style for h1 element*/
 h2  {  /*style h2 element*/ 
   text-align: center;
   font-size: 40px;
-  color: dimgray;
+  color: #00000;
   font-family: 'Nunito', sans-serif;
   width: 100%;
 }
@@ -59,6 +59,7 @@ p {
   font-family:  'Quattrocento', "Comic Sans Ms";
   font-weight: 600;
   font-size: 24px;
+  line-height: 1.2;
 }
 /*style ordered list*/
 ol {
@@ -84,7 +85,7 @@ ul  {
   width: 50%;
   border: 5px solid black;
   border-radius: 50%;
-  padding: 15px;
+ 
 }
 .info {
   text-align: center;
