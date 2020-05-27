@@ -45,6 +45,8 @@ h3  {   /*style h3 element*/
    font-size: 34px;
    text-align:  center;
    font-family: 'Roboto Slab',cursive;
+   padding-top: 15px;
+   padding-bottom: 15px;
 }
 h4  {   /*style h4 element*/
    color: dimgray;
