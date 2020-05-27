@@ -65,6 +65,12 @@ ol {
   font-size: 20px;
   font-family: 'Alegrey',cursive;
 }
+/*style unordered list*/
+ul  {
+  color: dimgray;
+  font-size: 20px;
+  font-family: 'Alegrey',cursive;
+}
 /*style form*/
 form  {
   display: table;
