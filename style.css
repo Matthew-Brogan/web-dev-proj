@@ -59,7 +59,7 @@ p {
   font-family:  'Quattrocento', "Comic Sans Ms";
   font-weight: 600;
   font-size: 24px;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 /*style ordered list*/
 ol {
@@ -90,8 +90,8 @@ ul  {
 .info {
   text-align: left;
   font-size: 20px;
-  width: 100%;
-  display: inline-block
+  display: inline-block;
+  line-hieght: 2.5;
   }
 /*psuedo class styled links*/
 a:lnik{
@@ -108,7 +108,6 @@ a:active {
 }
 /*style for embeded map*/
 .maps {
-  width:100%;
   margin:auto;
   display:inline-block;
   text-align: right;
