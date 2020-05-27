@@ -96,6 +96,9 @@ ul  {
   line-hieght: 2.5;
   float: left;
   }
+.footnote {
+  clear:both;
+}
 /*psuedo class styled links*/
 a:lnik{
   color: red;
