@@ -94,6 +94,7 @@ ul  {
   font-size: 20px;
   display: inline-block;
   line-hieght: 2.5;
+  float: left;
   }
 /*psuedo class styled links*/
 a:lnik{
@@ -111,6 +112,6 @@ a:active {
 /*style for embeded map*/
 .maps {
   margin:auto;
-  display:inline-block;
+  float: right;
   text-align: right;
   }
