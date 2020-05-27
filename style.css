@@ -15,7 +15,7 @@ header{
   font-family: 'Quattrocento', cursive;
   color: midnightblue;
   width: 100%;
-  padding: 7px;
+  padding-bottom: 7px;
 }
 /*style for nav*/
 nav {
@@ -81,7 +81,7 @@ ul  {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 50%;
   border: 5px solid black;
   border-radius: 50%;
   padding: 15px;
