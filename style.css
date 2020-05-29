@@ -100,7 +100,7 @@ ul  {
   clear: both;
 }
 /*psuedo class styled links*/
-a:lnik{
+a:link{
   color: red;
 }
 a:visited {
