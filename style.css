@@ -5,7 +5,7 @@
 *{  /*base formatiing for page*/
   padding: 0;
   Margin: 10px 10px 10px 10px;
-  background-color: azure;
+  background: ~webkit-linear-gradient(DeepSkyBle, Gray);
 }
 
 /*style header */
