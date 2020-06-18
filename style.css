@@ -5,7 +5,11 @@
 *{  /*base formatiing for page*/
   padding: 0;
   Margin: 10px 10px 10px 10px;
-  background: -webkit-linear-gradient(DeepSkyBle, Gray);
+ 
+}
+body  {
+ background: -webkit-linear-gradient(DeepSkyBlue , Gray);
+
 }
 
 /*style header */
