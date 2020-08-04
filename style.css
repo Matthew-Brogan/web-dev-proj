@@ -8,13 +8,11 @@
  
 }
 body  {/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+100&1+0,0+100;Blue+to+Transparent */
-background: -moz-linear-gradient(top,  #bdbaba 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #bdbaba 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  #bdbaba 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#007db9e8',GradientType=0 ); /* IE6-9 */
-
- 
- 
+/* background: -moz-linear-gradient(top,  #bdbaba 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+background-image: url("lightBlueStreak.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 
@@ -45,13 +43,13 @@ h1  { /*style for h1 element*/
 h2  {  /*style h2 element*/ 
   text-align: center;
   font-size: 40px;
-  color: #00000;
+  color: ghostwhite;
   font-family: 'Nunito', sans-serif;
   width: 100%;
 }
 h3  {   /*style h3 element*/
    text-decoration: underline;
-   color: dimgray;
+   color: black;
    font-size: 34px;
    text-align:  center;
    font-family: 'Roboto Slab',cursive;
@@ -59,7 +57,7 @@ h3  {   /*style h3 element*/
    padding-bottom: 15px;
 }
 h4  {   /*style h4 element*/
-   color: dimgray;
+   color: black;
    font-size: 32px;
    font-family: 'Quattrocento Sans', fantasy;
    text-align: center;
@@ -67,7 +65,7 @@ h4  {   /*style h4 element*/
 /* stle for p elements*/
 p {
   text-align: center;
-  color: dimgray;
+  color: black;
   font-family:  'Quattrocento', "Comic Sans Ms";
   font-weight: 600;
   font-size: 24px;
@@ -75,7 +73,7 @@ p {
 }
 /*style ordered list*/
 ol {
-  color: dimgray;
+  color: rgb(19, 16, 16);
   font-size: 20px;
   font-family: 'Alegrey',cursive;
   padding-left: 40%;
@@ -83,7 +81,7 @@ ol {
 }
 /*style unordered list*/
 ul  {
-  color: dimgray;
+  color: #131316;
   font-size: 20px;
   font-family: 'Alegrey',cursive;
   padding-left: 40%;
@@ -95,7 +93,7 @@ ul  {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  border: 5px solid black;
+  border: 5px solid #aaa;
   border-radius: 50%;
  
 }
